@@ -1,11 +1,11 @@
 let user = isAuthenticated()
 if(!user){
     document.getElementById('LogOutBtn').style.display = 'none'
-    
+    document.getElementById('signUp').style.display = 'block'
     document.getElementById('LoginBtn').style.display = 'block'
 }else{
     document.getElementById('LogOutBtn').style.display = 'block'
-    
+    document.getElementById('signUp').style.display = 'none'
     document.getElementById('LoginBtn').style.display = 'none'
 }
 
