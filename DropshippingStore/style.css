@@ -463,7 +463,7 @@ main p {
 
 .pop-wrapper {
     display: flex;
-    background-image: url('../icons/art.png');
+    background-image: url('icons/art.png');
     background-size: 15%;
     background-repeat: no-repeat;
     background-position-x: right;
@@ -1077,7 +1077,7 @@ main p {
 }
 
 #rotatingCards .cover.item-a {
-  background-image: url(../icons/665049.png);
+  background-image: url(icons/665049.png);
   background-size: 30%;
   text-align: start;
 }
@@ -1086,7 +1086,7 @@ main p {
 }
 
 #rotatingCards .cover.item-b {
-  background-image: url(../icons/5207196.png);
+  background-image: url(icons/5207196.png);
   background-size: 30%;
   text-align: start;
 }
@@ -1094,7 +1094,7 @@ main p {
   background-image: none;
 }
 #rotatingCards .cover.item-c {
-  background-image: url(../icons/5578531.png);
+  background-image: url(icons/5578531.png);
   background-size: 30%;
   text-align: start;
 }
