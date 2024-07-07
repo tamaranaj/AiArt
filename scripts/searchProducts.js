@@ -21,7 +21,7 @@ const itemsInCart = {
 let fetchDataService = {
     getImg: async function () {
         try {
-            let url = 'https://raw.githubusercontent.com/tamaranaj/AiArt/main/images.json'
+            let url = 'https://raw.githubusercontent.com/tamaranaj/AiArt/main/imagesIndex.json'
             let res = await fetch(url)
             let data = await res.json()
 
