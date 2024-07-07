@@ -1326,7 +1326,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/61.jpg"
+    "imageUrl": "../images/abstract/102.jpg"
 },
 {
     "id":103,
@@ -1339,7 +1339,7 @@
     "onDiscount": true,
     "discPrice": "20",
     "stock": true,
-    "imageUrl": "../images/abstract/62.png"
+    "imageUrl": "../images/abstract/103.png"
 },
 {
     "id":104,
@@ -1352,7 +1352,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/63.jpg"
+    "imageUrl": "../images/abstract/104.jpg"
 },
 {
     "id":105,
@@ -1365,7 +1365,7 @@
     "onDiscount": true,
     "discPrice": "15",
     "stock": true,
-    "imageUrl": "../images/abstract/64.jpg"
+    "imageUrl": "../images/abstract/105.jpg"
 },
 {
     "id":106,
@@ -1378,7 +1378,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/65.jpg"
+    "imageUrl": "../images/abstract/106.jpg"
 },
 {
     "id":107,
@@ -1391,7 +1391,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/66.jpeg"
+    "imageUrl": "../images/abstract/107.jpeg"
 },
 {
     "id":108,
@@ -1404,7 +1404,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/67.jpg"
+    "imageUrl": "../images/abstract/108.jpg"
 },
 {
     "id":109,
@@ -1417,7 +1417,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/68.jpg"
+    "imageUrl": "../images/abstract/109.jpg"
 },
 {
     "id":110,
@@ -1430,7 +1430,7 @@
     "onDiscount": true,
     "discPrice": "22",
     "stock": true,
-    "imageUrl": "../images/abstract/69.jpg"
+    "imageUrl": "../images/abstract/110.jpg"
 },
 {
     "id":111,
@@ -1443,7 +1443,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/70.jpg"
+    "imageUrl": "../images/abstract/111.jpg"
 },
 {
     "id":112,
@@ -1456,7 +1456,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/71.jpg"
+    "imageUrl": "../images/canvas/112.jpg"
 },
 {
     "id":113,
@@ -1469,7 +1469,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/72.jpeg"
+    "imageUrl": "../images/canvas/113.jpeg"
 },
 {
     "id":114,
@@ -1482,7 +1482,7 @@
     "onDiscount": true,
     "discPrice": "13",
     "stock": true,
-    "imageUrl": "../images/canvas/73.jpg"
+    "imageUrl": "../images/canvas/114.jpg"
 },
 {
     "id":115,
@@ -1495,7 +1495,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/74.jpg"
+    "imageUrl": "../images/canvas/115.jpg"
 },
 {
     "id":116,
@@ -1508,7 +1508,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/75.jpg"
+    "imageUrl": "../images/canvas/116.jpg"
 },
 {
     "id":117,
@@ -1521,7 +1521,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/76.jpeg"
+    "imageUrl": "../images/canvas/117.jpeg"
 },
 {
     "id":118,
@@ -1534,7 +1534,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/77.jpg"
+    "imageUrl": "../images/canvas/118.jpg"
 },
 {
     "id":119,
@@ -1547,7 +1547,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/78.jpg"
+    "imageUrl": "../images/canvas/119.jpg"
 },
 {
     "id":120,
@@ -1560,12 +1560,12 @@
     "onDiscount": true,
     "discPrice": "25",
     "stock": true,
-    "imageUrl": "../images/canvas/79.jpg"
+    "imageUrl": "../images/canvas/120.jpg"
 },
 {
     "id":121,
     "type": "photo",
-    "description": "Mountainview manor",
+    "description": "Mountain view manor",
     "tags":["canvas", "mountains", "home", "trees", "sun"],
     "category": "Canvas painting",
     "artist": {  "userName" :"AIArt", "userID": "AIArt"},
@@ -1573,7 +1573,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/80.jpg"
+    "imageUrl": "../images/canvas/121.jpg"
 },
 {
     "id":122,
@@ -1586,7 +1586,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/81.jpg"
+    "imageUrl": "../images/charcoal&chalk&pastel/122.jpg"
 },
 {
     "id":123,
@@ -1599,7 +1599,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/82.jpg"
+    "imageUrl": "../images/charcoal&chalk&pastel/123.jpg"
 },
 {
     "id":124,
@@ -1612,7 +1612,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/83.jpg"
+    "imageUrl": "../images/charcoal&chalk&pastel/124.jpg"
 },
 {
     "id":125,
@@ -1625,7 +1625,7 @@
     "onDiscount": true,
     "discPrice": "35",
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/84.jpg"
+    "imageUrl": "../images/charcoal&chalk&pastel/125.jpg"
 },
 {
     "id":126,
@@ -1638,7 +1638,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/85.jpg"
+    "imageUrl": "../images/charcoal&chalk&pastel/126.jpg"
 },
 {
     "id":127,
@@ -1651,7 +1651,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/86.jpg"
+    "imageUrl": "../images/charcoal&chalk&pastel/127.jpg"
 },
 {
     "id":128,
@@ -1664,7 +1664,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/87.jpg"
+    "imageUrl": "../images/charcoal&chalk&pastel/128.jpg"
 },
 {
     "id":129,
@@ -1677,7 +1677,7 @@
     "onDiscount": true,
     "discPrice": "25",
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/88.jpg"
+    "imageUrl": "../images/charcoal&chalk&pastel/129.jpg"
 },
 {
     "id":130,
@@ -1690,7 +1690,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/90.jpeg"
+    "imageUrl": "../images/charcoal&chalk&pastel/130.jpeg"
 },
 {
     "id":131,
@@ -1703,6 +1703,6 @@
     "onDiscount": true,
     "discPrice": "35",
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/89.jpg"
+    "imageUrl": "../images/charcoal&chalk&pastel/131.jpg"
 }
 ]
