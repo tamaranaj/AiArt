@@ -21,7 +21,7 @@ const itemsInCart = {
 let fetchDataService = {
     getImg: async function () {
         try {
-            let url = 'https://raw.githubusercontent.com/sedc-codecademy/sp2024-cp02-dsw-3/development/DropshippingStore/images.json'
+            let url = 'https://raw.githubusercontent.com/tamaranaj/AiArt/main/DropshippingStore/imgIndex.json'
             let res = await fetch(url)
             let data = await res.json()
 
@@ -66,7 +66,7 @@ const createCardsService = {
                             <p class="card__description">${pagginatedItems[i].category}</p>
                             <p class="img-price">${pagginatedItems[i].price}$</p>
                             <div class="buttonsContainer" id='${pagginatedItems[i].id}' data-item='${JSON.stringify(pagginatedItems[i])}'>
-                                <p class="details__button"><img src='../icons/icons8-info-64.png' alt='info icon' width ='38'/></p>
+                                <p class="details__button"><img src='icons/icons8-info-64.png' alt='info icon' width ='38'/></p>
                             </div>
                         </div>
                         
@@ -77,7 +77,7 @@ const createCardsService = {
             let cart = createCardsService.itemsCart(pagginatedItems[i])
             if (pagginatedItems[i].stock == true && !cart) {
                 let parentDiv = document.getElementById(`${pagginatedItems[i].id}`)
-                parentDiv.innerHTML += `<p class="card__button"><img src="../icons/icons8-add-to-cart-48.png" alt="Add to cart" width ='38' ></p>`
+                parentDiv.innerHTML += `<p class="card__button"><img src="icons/icons8-add-to-cart-48.png" alt="Add to cart" width ='38' ></p>`
             }
 
         }

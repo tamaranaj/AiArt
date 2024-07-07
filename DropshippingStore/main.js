@@ -44,7 +44,7 @@ function scrollL() {
 document.addEventListener("DOMContentLoaded", function() {
   const gallery = document.getElementById("mz-gallery");
 
-  fetch('../images.json')
+  fetch('imgIndex.json')
       .then(response => {
           if (!response.ok) {
               throw new Error('Network response was not ok ' + response.statusText);
@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function() {
               img.height = 700;
 
               img.addEventListener("click", function() {
-                window.location.href = "../templates/categoryPage.html";
+                window.location.href = "templates/categoryPage.html";
             });
 
               figure.appendChild(img);
@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const cubeContainer = document.querySelector('.cube-container');
   const photoCube = cubeContainer.querySelector('.photo-cube');
 
-  fetch('../images.json')
+  fetch('imgIndex.json')
       .then(response => {
           if (!response.ok) {
               throw new Error('Network response was not ok ' + response.statusText);
@@ -129,7 +129,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const cubeContainer = document.querySelector('.cubeContainer2');
   const photoCube = cubeContainer.querySelector('.photo-cube');
 
-  fetch('../images.json')
+  fetch('imgIndex.json')
       .then(response => {
           if (!response.ok) {
               throw new Error('Network response was not ok ' + response.statusText);
@@ -171,7 +171,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const cubeContainer = document.querySelector('.cubeContainer3');
   const photoCube = cubeContainer.querySelector('.photo-cube');
 
-  fetch('../images.json')
+  fetch('imgIndex.json')
       .then(response => {
           if (!response.ok) {
               throw new Error('Network response was not ok ' + response.statusText);
