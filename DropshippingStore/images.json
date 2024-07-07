@@ -9,7 +9,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/6.png"
+    "imageUrl": "../images/6.png"
     
 
 },
@@ -24,7 +24,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/1.jpg"
+    "imageUrl": "../images/1.jpg"
 },
 {
     "id": 2, 
@@ -37,7 +37,7 @@
     "onDiscount": true,
     "discPrice": 15,
     "stock": true,
-    "imageUrl": "../images/acrylic/2.jpg"
+    "imageUrl": "../images/2.jpg"
 },
 {
     "id":3,
@@ -50,7 +50,7 @@
     "onDiscount": true,
     "discPrice": 22,
     "stock": true,
-    "imageUrl": "../images/acrylic/3.jpg"
+    "imageUrl": "../images/3.jpg"
 },
 {
     "id": 4,
@@ -63,7 +63,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/4.jpg"
+    "imageUrl": "../images/4.jpg"
 },
 {
     "id": 5,
@@ -76,7 +76,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/5.jpg"
+    "imageUrl": "../images/5.jpg"
 },
 {
     "id": 0,
@@ -89,7 +89,7 @@
     "onDiscount": true,
     "discPrice": 23,
     "stock": true,
-    "imageUrl": "../images/acrylic/0.jpg"
+    "imageUrl": "../images/0.jpg"
 },
 {
     "id": 7,
@@ -102,7 +102,7 @@
     "onDiscount": true,
     "discPrice": 6,
     "stock":false,
-    "imageUrl": "../images/acrylic/7.jpg"
+    "imageUrl": "../images/7.jpg"
 },
 {
     "id": 8,
@@ -115,7 +115,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/8.jpg"
+    "imageUrl": "../images/8.jpg"
 },
 {
     "id": 9,
@@ -128,7 +128,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/9.png"
+    "imageUrl": "../images/9.png"
 },
 {
     "id": 10,
@@ -141,7 +141,7 @@
     "onDiscount": true,
     "discPrice": 20,
     "stock": true,
-    "imageUrl": "../images/acrylic/10.png"
+    "imageUrl": "../images/10.png"
 },
 {
     "id": 11,
@@ -154,7 +154,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/11.jpg"
+    "imageUrl": "../images/11.jpg"
 },
 {
     "id": 12,
@@ -167,7 +167,7 @@
     "onDiscount": true,
     "discPrice": 17,
     "stock": true,
-    "imageUrl": "../images/acrylic/12.png"
+    "imageUrl": "../images/12.png"
 },
 {
     "id": 13,
@@ -180,7 +180,7 @@
     "onDiscount": true,
     "discPrice": 27,
     "stock": true,
-    "imageUrl": "../images/acrylic/13.jpg"
+    "imageUrl": "../images/13.jpg"
 },
 {
     "id": 14,
@@ -193,7 +193,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": false,
-    "imageUrl": "../images/acrylic/14.jpg"
+    "imageUrl": "../images/14.jpg"
 },
 {
     "id": 15,
@@ -206,7 +206,7 @@
     "onDiscount": true,
     "discPrice": 17,
     "stock": false,
-    "imageUrl": "../images/acrylic/15.jpg"
+    "imageUrl": "../images/15.jpg"
 },
 {
     "id": 16,
@@ -219,7 +219,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": false,
-    "imageUrl": "../images/acrylic/16.png"
+    "imageUrl": "../images/16.png"
 },
 {
     "id": 17,
@@ -232,7 +232,7 @@
     "onDiscount": true,
     "discPrice": 7,
     "stock": false,
-    "imageUrl": "../images/acrylic/17.jpg"
+    "imageUrl": "../images/17.jpg"
 },
 {
     "id": 18,
@@ -245,7 +245,7 @@
     "onDiscount": true,
     "discPrice": 7,
     "stock": true,
-    "imageUrl": "../images/acrylic/18.jpg"
+    "imageUrl": "../images/18.jpg"
 },
 {
     "id": 19,
@@ -258,7 +258,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock":true,
-    "imageUrl": "../images/acrylic/19.jpg"
+    "imageUrl": "../images/19.jpg"
 },
 {
     "id": 20,
@@ -349,7 +349,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/26.jpg"
+    "imageUrl": "../images/26.jpg"
     
 },
 {
@@ -363,7 +363,7 @@
     "onDiscount": true,
     "discPrice": 24,
     "stock": true,
-    "imageUrl":"../images/acrylic/28.jpg"
+    "imageUrl":"../images/28.jpg"
 },
 {
     "id": 29,
@@ -376,7 +376,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl":"../images/acrylic/29.jpg"
+    "imageUrl":"../images/29.jpg"
 },
 {
     "id": 30,
@@ -389,7 +389,7 @@
     "onDiscount": true,
     "discPrice": 24,
     "stock": true,
-    "imageUrl": "../images/acrylic/30.jpg"
+    "imageUrl": "../images/30.jpg"
 },
 {
     "id": 31,
@@ -402,7 +402,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/31.jpg"
+    "imageUrl": "../images/31.jpg"
 },
 {
     "id": 32,
@@ -415,7 +415,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/32.jpg"
+    "imageUrl": "../images/32.jpg"
 },
 {
     "id": 33,
@@ -428,7 +428,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/acrylic/33.jpg"
+    "imageUrl": "../images/33.jpg"
 },
 {
     "id": 34,
@@ -441,7 +441,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock":true,
-    "imageUrl": "../images/acrylic/34.jpg"
+    "imageUrl": "../images/34.jpg"
 },
 {
     "id": 35,
@@ -454,7 +454,7 @@
     "onDiscount": true,
     "discPrice": 11,
     "stock":true,
-    "imageUrl": "../images/acrylic/35.jpg"
+    "imageUrl": "../images/35.jpg"
 },
 {
     "id": 36,
@@ -467,7 +467,7 @@
     "onDiscount": true,
     "discPrice": 21,
     "stock":true,
-    "imageUrl": "../images/acrylic/36.jpg"
+    "imageUrl": "../images/36.jpg"
 },
 {
     "id": 37,
@@ -480,7 +480,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock":true,
-    "imageUrl": "../images/acrylic/37.jpg"
+    "imageUrl": "../images/37.jpg"
 },
 {
     "id": 38,
@@ -493,7 +493,7 @@
     "onDiscount": true,
     "discPrice": 37,
     "stock": true,
-    "imageUrl": "../images/acrylic/38.jpg"
+    "imageUrl": "../images/38.jpg"
 },
 {
     "id": 39,
@@ -506,7 +506,7 @@
     "onDiscount": true,
     "discPrice": 14,
     "stock":true,
-    "imageUrl": "../images/acrylic/39.jpeg"
+    "imageUrl": "../images/39.jpeg"
 },
 {
     "id": 40,
@@ -519,7 +519,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock":true,
-    "imageUrl": "../images/acrylic/40.jpg"
+    "imageUrl": "../images/40.jpg"
 },
 {
     "id": 41,
@@ -532,7 +532,7 @@
     "onDiscount": true,
     "discPrice": 5,
     "stock": true,
-    "imageUrl": "../images/acrylic/41.jpg"
+    "imageUrl": "../images/41.jpg"
 },
 {
     "id": 42,
@@ -545,7 +545,7 @@
     "onDiscount": true,
     "discPrice": 13,
     "stock": true,
-    "imageUrl": "../images/Art&Designs/42.jpg"
+    "imageUrl": "../images/42.jpg"
 },
 {
     "id": 43,
@@ -558,7 +558,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock":true,
-    "imageUrl": "../images/Art&Designs/43.png"
+    "imageUrl": "../images/43.png"
 },
 {
     "id": 44,
@@ -571,7 +571,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/Art&Designs/44.webp"
+    "imageUrl": "../images/44.webp"
 },
 {
     "id": 45,
@@ -584,7 +584,7 @@
     "onDiscount": true,
     "discPrice": 5,
     "stock": true,
-    "imageUrl": "../images/Art&Designs/45.webp"
+    "imageUrl": "../images/45.webp"
 },
 {
     "id": 46,
@@ -597,7 +597,7 @@
     "onDiscount": true,
     "discPrice": 27,
     "stock": true,
-    "imageUrl": "../images/Art&Designs/46.png"
+    "imageUrl": "../images/46.png"
 },
 {
     "id": 47,
@@ -610,7 +610,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/Art&Designs/47.jpg"
+    "imageUrl": "../images/47.jpg"
 },
 {
     "id": 48,
@@ -623,7 +623,7 @@
     "onDiscount": true,
     "discPrice": 32,
     "stock":true,
-    "imageUrl": "../images/Art&Designs/48.jpg"
+    "imageUrl": "../images/48.jpg"
 },
 {
     "id": 49,
@@ -636,7 +636,7 @@
     "onDiscount": true,
     "discPrice": 19,
     "stock": true,
-    "imageUrl": "../images/black&white/49.jpg"
+    "imageUrl": "../images/49.jpg"
 },
 {
     "id": 50,
@@ -649,7 +649,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock":true,
-    "imageUrl": "../images/black&white/50.jpg"
+    "imageUrl": "../images/50.jpg"
 },
 {
     "id": 51,
@@ -662,7 +662,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock":true,
-    "imageUrl": "../images/black&white/51.jpg"
+    "imageUrl": "../images/51.jpg"
 },
 {
     "id": 52,
@@ -675,7 +675,7 @@
     "onDiscount": true,
     "discPrice": 21,
     "stock": true,
-    "imageUrl": "../images/black&white/52.jpg"
+    "imageUrl": "../images/52.jpg"
 },
 {
     "id": 53,
@@ -688,7 +688,7 @@
     "onDiscount": true,
     "discPrice": 29,
     "stock":true,
-    "imageUrl": "../images/black&white/53.jpg"
+    "imageUrl": "../images/53.jpg"
 },
 {
     "id": 54,
@@ -701,7 +701,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock":true,
-    "imageUrl": "../images/black&white/54.jpg"
+    "imageUrl": "../images/54.jpg"
 },
 {
     "id": 55,
@@ -714,7 +714,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/black&white/55.jpg"
+    "imageUrl": "../images/55.jpg"
 },
 {
     "id": 56,
@@ -727,7 +727,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/black&white/56.jpg"
+    "imageUrl": "../images/56.jpg"
 },
 {
     "id": 57,
@@ -740,7 +740,7 @@
     "onDiscount": true,
     "discPrice": 20,
     "stock": true,
-    "imageUrl": "../images/black&white/57.jpg"
+    "imageUrl": "../images/57.jpg"
 }
 ,
 {
@@ -754,7 +754,7 @@
     "onDiscount": true,
     "discPrice": 3,
     "stock": true,
-    "imageUrl": "../images/portraits/58.jpg"
+    "imageUrl": "../images/58.jpg"
 },
 {
     "id": 59,
@@ -767,7 +767,7 @@
     "onDiscount": true,
     "discPrice": 2,
     "stock": true,
-    "imageUrl": "../images/portraits/59.jpg"
+    "imageUrl": "../images/59.jpg"
 },
 {
     "id": 60,
@@ -780,7 +780,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/portraits/60.jpg"
+    "imageUrl": "../images/60.jpg"
 },
 {
     "id": 61,
@@ -793,7 +793,7 @@
     "onDiscount": true,
     "discPrice": 5,
     "stock": true,
-    "imageUrl": "../images/portraits/61.jpg"
+    "imageUrl": "../images/61.jpg"
 },
 {
     "id": 62,
@@ -806,7 +806,7 @@
     "onDiscount": true,
     "discPrice": 5,
     "stock": true,
-    "imageUrl": "../images/portraits/62.jpg"
+    "imageUrl": "../images/62.jpg"
 },
 {
     "id": 63,
@@ -819,7 +819,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/portraits/63.jpg"
+    "imageUrl": "../images/63.jpg"
 },
 {
     "id": 64,
@@ -832,7 +832,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/portraits/64.jpg"
+    "imageUrl": "../images/64.jpg"
 },
 {
     "id": 65,
@@ -845,7 +845,7 @@
     "onDiscount": true,
     "discPrice": 5,
     "stock": true,
-    "imageUrl": "../images/portraits/65.jpg"
+    "imageUrl": "../images/65.jpg"
 },
 {
     "id": 66,
@@ -858,7 +858,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/portraits/66.jpg"
+    "imageUrl": "../images/66.jpg"
 },
 {
     "id": 67,
@@ -871,7 +871,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/portraits/67.jpg"
+    "imageUrl": "../images/67.jpg"
 },
 {
     "id": 68,
@@ -884,7 +884,7 @@
     "onDiscount": true,
     "discPrice": 57,
     "stock": true,
-    "imageUrl": "../images/portraits/68.jpg"
+    "imageUrl": "../images/68.jpg"
 },
 {
     "id": 69,
@@ -897,7 +897,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/portraits/69.jpg"
+    "imageUrl": "../images/69.jpg"
 },
 {
     "id": 70,
@@ -910,7 +910,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/portraits/70.jpg"
+    "imageUrl": "../images/70.jpg"
 },
 {
     "id": 71,
@@ -923,7 +923,7 @@
     "onDiscount": true,
     "discPrice": 5,
     "stock": true,
-    "imageUrl": "../images/portraits/71.jpg"
+    "imageUrl": "../images/71.jpg"
 },
 {
     "id": 72,
@@ -936,7 +936,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/portraits/72.jpg"
+    "imageUrl": "../images/72.jpg"
 },
 {
     "id": 73,
@@ -949,7 +949,7 @@
     "onDiscount": true,
     "discPrice": 3,
     "stock": true,
-    "imageUrl": "../images/portraits/73.jpg"
+    "imageUrl": "../images/73.jpg"
 },
 {
     "id": 74,
@@ -962,7 +962,7 @@
     "onDiscount": true,
     "discPrice": 2,
     "stock": true,
-    "imageUrl": "../images/portraits/74.jpg"
+    "imageUrl": "../images/74.jpg"
 },
 {
     "id": 75,
@@ -975,7 +975,7 @@
     "onDiscount": true,
     "discPrice": 2,
     "stock": true,
-    "imageUrl": "../images/portraits/75.jpg"
+    "imageUrl": "../images/75.jpg"
 },
 {
     "id": 76,
@@ -988,7 +988,7 @@
     "onDiscount": true,
     "discPrice": 3,
     "stock": true,
-    "imageUrl": "../images/portraits/76.jpg"
+    "imageUrl": "../images/76.jpg"
 },
 {
     "id": 77,
@@ -1001,7 +1001,7 @@
     "onDiscount": true,
     "discPrice": 4,
     "stock": true,
-    "imageUrl": "../images/portraits/77.jpg"
+    "imageUrl": "../images/77.jpg"
 },
 {
     "id": 78,
@@ -1014,7 +1014,7 @@
     "onDiscount": true,
     "discPrice": 3,
     "stock": true,
-    "imageUrl": "../images/landscapes/78.jpg"
+    "imageUrl": "../images/78.jpg"
 },
 {
     "id": 79,
@@ -1027,7 +1027,7 @@
     "onDiscount": true,
     "discPrice": 2,
     "stock": true,
-    "imageUrl": "../images/landscapes/79.jpg"
+    "imageUrl": "../images/79.jpg"
 },
 {
     "id": 80,
@@ -1040,7 +1040,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/landscapes/80.jpg"
+    "imageUrl": "../images/80.jpg"
 },
 {
     "id": 81,
@@ -1053,7 +1053,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/landscapes/81.jpg"
+    "imageUrl": "../images/81.jpg"
 },
 {
     "id": 82,
@@ -1066,7 +1066,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/landscapes/82.jpg"
+    "imageUrl": "../images/82.jpg"
 },
 {
     "id": 83,
@@ -1079,7 +1079,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/landscapes/83.jpg"
+    "imageUrl": "../images/83.jpg"
 },
 {
     "id": 84,
@@ -1092,7 +1092,7 @@
     "onDiscount": true,
     "discPrice": 3,
     "stock": true,
-    "imageUrl": "../images/landscapes/84.jpg"
+    "imageUrl": "../images/84.jpg"
 },
 {
     "id": 85,
@@ -1105,7 +1105,7 @@
     "onDiscount": true,
     "discPrice": 5,
     "stock": true,
-    "imageUrl": "../images/landscapes/85.jpg"
+    "imageUrl": "../images/85.jpg"
 },
 {
     "id": 86,
@@ -1118,7 +1118,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/landscapes/86.jpg"
+    "imageUrl": "../images/86.jpg"
 },
 {
     "id": 87,
@@ -1131,7 +1131,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/87.jpg"
+    "imageUrl": "../images/87.jpg"
 },
 {
     "id": 88,
@@ -1144,7 +1144,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/88.jpg"
+    "imageUrl": "../images/88.jpg"
 },
 {
     "id": 89,
@@ -1157,7 +1157,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/89.jpg"
+    "imageUrl": "../images/89.jpg"
 },
 {
     "id": 90,
@@ -1170,7 +1170,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/90.jpg"
+    "imageUrl": "../images/90.jpg"
 },
 {
     "id": 91,
@@ -1183,7 +1183,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/91.jpg"
+    "imageUrl": "../images/91.jpg"
 },
 {
     "id": 92,
@@ -1196,7 +1196,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/92.jpg"
+    "imageUrl": "../images/92.jpg"
 },
 {
     "id": 93,
@@ -1209,7 +1209,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/93.jpg"
+    "imageUrl": "../images/93.jpg"
 },
 {
     "id": 94,
@@ -1222,7 +1222,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/94.jpg"
+    "imageUrl": "../images/94.jpg"
 },
 {
     "id": 95,
@@ -1235,7 +1235,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/95.jpg"
+    "imageUrl": "../images/95.jpg"
 },
 {
     "id": 96,
@@ -1248,7 +1248,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/96.jpg"
+    "imageUrl": "../images/96.jpg"
 },
 {
     "id": 97,
@@ -1261,7 +1261,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/97.jpg"
+    "imageUrl": "../images/97.jpg"
 },
 {
     "id": 98,
@@ -1274,7 +1274,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/98.jpg"
+    "imageUrl": "../images/98.jpg"
 },
 {
     "id": 99,
@@ -1287,7 +1287,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/99.jpg"
+    "imageUrl": "../images/99.jpg"
 },
 {
     "id": 100,
@@ -1300,7 +1300,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/100.jpg"
+    "imageUrl": "../images/100.jpg"
 },
 {
     "id": 101,
@@ -1313,7 +1313,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/astrophotography/101.jpg"
+    "imageUrl": "../images/101.jpg"
 },
 {
     "id":102,
@@ -1326,7 +1326,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/102.jpg"
+    "imageUrl": "../images/102.jpg"
 },
 {
     "id":103,
@@ -1339,7 +1339,7 @@
     "onDiscount": true,
     "discPrice": "20",
     "stock": true,
-    "imageUrl": "../images/abstract/103.png"
+    "imageUrl": "../images/103.png"
 },
 {
     "id":104,
@@ -1352,7 +1352,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/104.jpg"
+    "imageUrl": "../images/104.jpg"
 },
 {
     "id":105,
@@ -1365,7 +1365,7 @@
     "onDiscount": true,
     "discPrice": "15",
     "stock": true,
-    "imageUrl": "../images/abstract/105.jpg"
+    "imageUrl": "../images/105.jpg"
 },
 {
     "id":106,
@@ -1378,7 +1378,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/106.jpg"
+    "imageUrl": "../images/106.jpg"
 },
 {
     "id":107,
@@ -1391,7 +1391,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/107.jpeg"
+    "imageUrl": "../images/107.jpeg"
 },
 {
     "id":108,
@@ -1404,7 +1404,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/108.jpg"
+    "imageUrl": "../images/108.jpg"
 },
 {
     "id":109,
@@ -1417,7 +1417,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/109.jpg"
+    "imageUrl": "../images/109.jpg"
 },
 {
     "id":110,
@@ -1430,7 +1430,7 @@
     "onDiscount": true,
     "discPrice": "22",
     "stock": true,
-    "imageUrl": "../images/abstract/110.jpg"
+    "imageUrl": "../images/110.jpg"
 },
 {
     "id":111,
@@ -1443,7 +1443,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/abstract/111.jpg"
+    "imageUrl": "../images/111.jpg"
 },
 {
     "id":112,
@@ -1456,7 +1456,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/112.jpg"
+    "imageUrl": "../images/112.jpg"
 },
 {
     "id":113,
@@ -1469,7 +1469,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/113.jpeg"
+    "imageUrl": "../images/113.jpeg"
 },
 {
     "id":114,
@@ -1482,7 +1482,7 @@
     "onDiscount": true,
     "discPrice": "13",
     "stock": true,
-    "imageUrl": "../images/canvas/114.jpg"
+    "imageUrl": "../images/114.jpg"
 },
 {
     "id":115,
@@ -1495,7 +1495,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/115.jpg"
+    "imageUrl": "../images/115.jpg"
 },
 {
     "id":116,
@@ -1508,7 +1508,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/116.jpg"
+    "imageUrl": "../images/116.jpg"
 },
 {
     "id":117,
@@ -1521,7 +1521,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/117.jpeg"
+    "imageUrl": "../images/117.jpeg"
 },
 {
     "id":118,
@@ -1534,7 +1534,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/118.jpg"
+    "imageUrl": "../images/118.jpg"
 },
 {
     "id":119,
@@ -1547,7 +1547,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/119.jpg"
+    "imageUrl": "../images/119.jpg"
 },
 {
     "id":120,
@@ -1560,7 +1560,7 @@
     "onDiscount": true,
     "discPrice": "25",
     "stock": true,
-    "imageUrl": "../images/canvas/120.jpg"
+    "imageUrl": "../images/120.jpg"
 },
 {
     "id":121,
@@ -1573,7 +1573,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/canvas/121.jpg"
+    "imageUrl": "../images/121.jpg"
 },
 {
     "id":122,
@@ -1586,7 +1586,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/122.jpg"
+    "imageUrl": "../images/122.jpg"
 },
 {
     "id":123,
@@ -1599,7 +1599,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/123.jpg"
+    "imageUrl": "../images/123.jpg"
 },
 {
     "id":124,
@@ -1612,7 +1612,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/124.jpg"
+    "imageUrl": "../images/124.jpg"
 },
 {
     "id":125,
@@ -1625,7 +1625,7 @@
     "onDiscount": true,
     "discPrice": "35",
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/125.jpg"
+    "imageUrl": "../images/125.jpg"
 },
 {
     "id":126,
@@ -1638,7 +1638,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/126.jpg"
+    "imageUrl": "../images/126.jpg"
 },
 {
     "id":127,
@@ -1651,7 +1651,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/127.jpg"
+    "imageUrl": "../images/127.jpg"
 },
 {
     "id":128,
@@ -1664,7 +1664,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/128.jpg"
+    "imageUrl": "../images/128.jpg"
 },
 {
     "id":129,
@@ -1677,7 +1677,7 @@
     "onDiscount": true,
     "discPrice": "25",
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/129.jpg"
+    "imageUrl": "../images/129.jpg"
 },
 {
     "id":130,
@@ -1690,7 +1690,7 @@
     "onDiscount": false,
     "discPrice": null,
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/130.jpeg"
+    "imageUrl": "../images/130.jpeg"
 },
 {
     "id":131,
@@ -1703,6 +1703,6 @@
     "onDiscount": true,
     "discPrice": "35",
     "stock": true,
-    "imageUrl": "../images/charcoal&chalk&pastel/131.jpg"
+    "imageUrl": "../images/131.jpg"
 }
 ]
