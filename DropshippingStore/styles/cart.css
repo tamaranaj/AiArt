@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-
 * {
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
@@ -150,7 +149,6 @@ hr {
   background-color: #474747;
   border-radius: 10px;
 }
-
 .nav-item a {
   padding: 4px 13px;
 }
@@ -160,7 +158,6 @@ hr {
   padding: 0px;
   display: flex;
 }
-
 .cart-icon-img {
   width: 35px;
   height: 30px;
@@ -314,13 +311,13 @@ hr {
   .logoImg {
     width: 80px;
     height: 60px;
+   
+}
 
-  }
-
-  h4 {
+h4 {
     font-size: 2em;
 
-  }
+}
 
   .div-search {
     flex-wrap: wrap;
@@ -474,7 +471,6 @@ button:hover {
   from {
     opacity: 0;
   }
-
   to {
     opacity: 1;
   }
@@ -487,26 +483,21 @@ button:hover {
   max-width: 1170px;
   margin: auto;
 }
-
 .rowFooter {
   display: flex;
   flex-wrap: wrap;
 }
-
 ul {
   list-style: none;
 }
-
 .footer {
   background-color: #24262b;
   padding: 70px 0;
 }
-
 .footer-col {
   width: 25%;
   padding: 0 15px;
 }
-
 .footer-col h4 {
   font-size: 18px;
   color: #ffffff;
@@ -515,7 +506,6 @@ ul {
   font-weight: 500;
   position: relative;
 }
-
 .footer-col h4::before {
   content: "";
   position: absolute;
@@ -526,11 +516,9 @@ ul {
   box-sizing: border-box;
   width: 50px;
 }
-
 .footer-col ul li:not(:last-child) {
   margin-bottom: 10px;
 }
-
 .footer-col ul li a {
   font-size: 16px;
   text-transform: capitalize;
@@ -541,12 +529,10 @@ ul {
   display: block;
   transition: all 0.3s ease;
 }
-
 .footer-col ul li a:hover {
   color: #ffffff;
   padding-left: 8px;
 }
-
 .footer-col .social-links a {
   display: inline-block;
   height: 40px;
@@ -559,7 +545,6 @@ ul {
   color: #ffffff;
   transition: all 0.5s ease;
 }
-
 .footer-col .social-links a:hover {
   color: #24262b;
   background-color: #ffffff;
@@ -572,7 +557,6 @@ ul {
     margin-bottom: 30px;
   }
 }
-
 @media (max-width: 574px) {
   .footer-col {
     width: 100%;
@@ -615,7 +599,6 @@ ul {
   from {
     opacity: 0;
   }
-
   to {
     opacity: 1;
   }
@@ -627,7 +610,6 @@ footer {
   background-color: rgb(52, 46, 46);
   color: whitesmoke;
 }
-
 .text-white,
 .mb-2,
 .text-uppercase {

@@ -67,14 +67,14 @@ document.addEventListener("DOMContentLoaded", function () {
     successWindow.style.display = "none";
     checkoutForm.reset();
     clearCartItems();
-    window.location.href = "../index.html";
+    window.location.href = "./home.html";
   });
 
   okButton.addEventListener("click", function () {
     successWindow.style.display = "none";
     checkoutForm.reset();
     clearCartItems();
-    window.location.href = "../index.html";
+    window.location.href = "./home.html";
   });
 
   function clearCartItems() {

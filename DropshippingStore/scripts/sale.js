@@ -305,7 +305,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 
-    const url = "https://raw.githubusercontent.com/tamaranaj/AiArt/main/images.json";
+    const url = "https://raw.githubusercontent.com/sedc-codecademy/sp2024-cp02-dsw-3/development/DropshippingStore/images.json";
     showDefaultCards(url);
     AscBtn(url);
     DscBtn(url);

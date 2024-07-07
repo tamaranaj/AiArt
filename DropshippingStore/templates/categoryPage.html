@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,16 +11,18 @@
 
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
-    <link rel="stylesheet" href="../styles/sale.css" />
+    <link rel="stylesheet" href="../styles/category.css" />
+
 </head>
 
 <body>
+    <!-- Nav Bar -->
     <div class="navigation-bar ">
         <nav class="navbar  navigation-bar first-nav">
             <div class="first-nav-container">
                 <div class="searchLogo">
                     <div class="logo">
-                        <a href="../index.html">
+                        <a href="../templates/home.html">
                             <img src="../icons/art-whiteTxt.png" class="logoImg" alt="Logo">
 
                         </a>
@@ -44,10 +47,10 @@
                               
                             </a>
                           </li>
-                        <!-- <li class="nav-item">
+                          <li class="nav-item">
                             <a class="nav-link" id="LoginBtn" aria-current="page" href="../templates/loginPage.html"><img src="../icons/icons8-log-in-32.png"
                                     alt="Login icon" width="25" height="23" srcset=""><span> Log In</span></a>
-                        </li> -->
+                        </li>
 
                         <li class="nav-item">
                             <a class="nav-link" href="../templates/singUp.html"><img src="../icons/icons8-account-32.png" alt="Sing up icon"
@@ -79,8 +82,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav navPages">
-                        <a class="nav-link second-nav-links" href="../index.html">Home</a>
-                        <a class="nav-link second-nav-links" href="../templates/categoryPage.html">Categories</a>
+                        <a class="nav-link second-nav-links" href="../templates/home.html">Home</a>
+                        <a class="nav-link second-nav-links" href="#">Categories</a>
                         <a class="nav-link second-nav-links" href="../templates/salePage.html">Sale</a>
                         <a class="nav-link second-nav-links" href="../templates/aboutus.html">About us</a>
                         <a class="nav-link second-nav-links" href="../templates/ContactUs.html">Contact</a>
@@ -115,6 +118,7 @@
 
             </div>
 
+
             <div class="sort-buttons">
                 <button class="btn" type="button" id="lowToHigh">
                     Lowest↑
@@ -127,7 +131,7 @@
         </div>
     </section>
 
-<div id="userCreds" style="text-align: center;">Welcome</div>
+
     <!-- Category options -->
     <div>
         <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample"
@@ -168,7 +172,7 @@
                     </div>
 
                     <div>
-                        <select class="form-select" id="itemsPerPage">
+                        <select class="form-select" id="itemsPerPAge">
                             <option value="12" selected disabled hidden>Products per page</option>
                             <option value="12">12</option>
                             <option value="16">16</option>
@@ -254,8 +258,8 @@
         crossorigin="anonymous"></script>
     <script src="https://cdn.lordicon.com/lordicon.js"></script>
     <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
-    <script src="../scripts/sale.js"></script>
-    
+    <script src="../scripts/category.js"></script>
+    <script src="../scripts/auth.js"></script>
 
     <footer class=" text-center text-lg-start ">
 
@@ -275,20 +279,20 @@
 
                     <ul class="list-unstyled d-flex flex-row justify-content-center">
                         <li>
-                            <a href="https://www.facebook.com/people/Qinshift/100091645631435/" target="_blank" ><img
+                            <a href="https://www.facebook.com/people/Qinshift/100091645631435/" target="_blank"><img
                                     src="../icons/facebook.png" alt="Facebook Logo"
                                     style=" height: 34px; width: 34px; margin-right: 10px;"></a>
                         </li>
                         <li>
-                            <a href="https://x.com/qinshift" target="_blank"><img src="../icons/twitter.png" alt="X logo"
+                            <a href="https://x.com/qinshift" target="_blank" ><img src="../icons/twitter.png" alt="X logo"
                                     style=" height: 34px; width: 34px; margin-right: 10px;"></a>
                         </li>
                         <li>
-                            <a href="https://www.instagram.com/qinshift/" target="_blank"><img src="../icons/instagram.png"
-                                    alt="Instagram Logo" style=" height: 34px; width: 34px;  margin-right: 10px;"></a>
+                            <a href="https://www.instagram.com/qinshift/" target="_blank" ><img src="../icons/instagram.png"
+                                    alt="Instagram Logo" style=" height: 34px; width: 34px; margin-right: 10px;"></a>
                         </li>
                         <li>
-                            <a href="https://www.linkedin.com/company/qinshift/" target="_blank"><img src="../icons/linkedin.png"
+                            <a href="https://www.linkedin.com/company/qinshift/" target="_blank" ><img src="../icons/linkedin.png"
                                     alt="Linkedin Logo" style=" height: 34px; width: 34px;"></a>
                         </li>
                     </ul>
@@ -352,9 +356,10 @@
         </div>
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
             © 2024 Copyright:
-            <a class="text-white" href="../index.html">ArtShop</a>
+            <a class="text-white" href="../templates/home.html">ArtShop</a>
         </div>
     </footer>
+
 </body>
 
 </html>
