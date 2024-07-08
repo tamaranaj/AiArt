@@ -435,8 +435,8 @@ function showPopup(imageData) {
     const stockStatus = imageData.stock ? ' ✓' : ' ✘';
 
     // Update the popup image
-    imageData.imageUrl.replace("../", "")
-    popupImage.src = imageData.imageUrl;
+    const urlimage = imageData.imageUrl.replace("../", "")
+    popupImage.src = urlimage;
     popupImage.alt = imageData.type;
     // Update the popup content
 
