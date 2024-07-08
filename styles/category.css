@@ -1129,6 +1129,19 @@ footer {
 
 @media only screen and (max-width: 400px) {
 
+    .first-nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .first-nav-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
     .searchLogo {
         flex-flow: column wrap;
         gap: 10px;
@@ -1137,12 +1150,12 @@ footer {
     .logoImg {
         width: 80px;
         height: 60px;
-       
+
     }
-    
+
     h4 {
         font-size: 2em;
-    
+
     }
 
     .div-search {

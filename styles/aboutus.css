@@ -468,6 +468,19 @@ footer{
     gap: 10px;
   }
 
+  .first-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .first-nav-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
   .logoImg {
     width: 80px;
     height: 60px;

@@ -855,6 +855,13 @@ main p {
     justify-content: center;
     align-items: center;
   }
+
+  .first-nav-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
     .searchLogo {
         flex-flow: column wrap;
         justify-content: center;
