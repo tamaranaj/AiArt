@@ -853,6 +853,8 @@ main p {
 
     .searchLogo {
         flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
         gap: 10px;
     }
 
@@ -869,15 +871,19 @@ main p {
 
     .div-search {
         flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
         width: 200px;
     }
 
     .searchInput {
-        width: 200px;
+        width: 220px;
         
     }
 
     .navList {
+      justify-content: center;
+      align-items: center;
         gap: 5px;
 
     }
