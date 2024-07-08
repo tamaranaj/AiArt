@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", async function () {
 let fetchDataService = {
     getImg: async function () {
         try {
-            let url = 'https://raw.githubusercontent.com/tamaranaj/AiArt/main/DropshippingStore/images.json'
+            let url = 'https://raw.githubusercontent.com/tamaranaj/AiArt/main/images.json'
             let res = await fetch(url)
             let data = await res.json()
 

@@ -252,7 +252,7 @@ const itemsInCart = {
 let fetchDataService = {
     getImg: async function () {
         try {
-            let url = 'https://raw.githubusercontent.com/tamaranaj/AiArt/main/DropshippingStore/imgIndex.json'
+            let url = 'https://raw.githubusercontent.com/tamaranaj/AiArt/main/imgIndex.json'
             let res = await fetch(url)
             let data = await res.json()
 

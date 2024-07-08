@@ -305,7 +305,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 
-    const url = "https://raw.githubusercontent.com/tamaranaj/AiArt/main/DropshippingStore/images.json";
+    const url = "https://raw.githubusercontent.com/tamaranaj/AiArt/main/images.json";
     showDefaultCards(url);
     AscBtn(url);
     DscBtn(url);
