@@ -3,14 +3,18 @@ document.addEventListener("DOMContentLoaded", function () {
   const totalAmount = document.getElementById("totalAmount");
   const checkoutBtn = document.getElementById("checkoutBtn");
   let items = JSON.parse(localStorage.getItem("cart-items")) || [];
-
+  if(items){
+    let imeges = items.map(i=>{if(i.imageUrl.charAt[0]=="i"){i.imageUrl=`../${imageUrl}`}})
+      return imeges
+  }
+  
   function isAuthenticated() {
     return localStorage.getItem("user-creds") !== null;
   }
 
   function displayCartItems() {
-    if (items.length > 0) {
-      const itemsDisplay = items
+    if (imeges.length > 0) {
+      const itemsDisplay = imeges
         .map((item, index) => {
           if (isAuthenticated()) {
             return `
@@ -57,7 +61,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function calculateTotalAmount() {
-    let total = items.reduce((acc, item) => {
+    let total = imeges.reduce((acc, item) => {
       if (isAuthenticated()) {
         return item.discPrice !== null
           ? acc + item.discPrice
