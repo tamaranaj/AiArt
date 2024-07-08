@@ -850,7 +850,11 @@ main p {
 
 
 @media only screen and (max-width: 400px) {
-
+  .first-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
     .searchLogo {
         flex-flow: column wrap;
         justify-content: center;
