@@ -232,7 +232,7 @@ document.addEventListener("DOMContentLoaded", function() {
         logOutBtn.addEventListener("click", () => {
             localStorage.removeItem("user-creds");
             localStorage.removeItem("cart-items");
-            document.location.href = "../templates/home.html";
+            document.location.href = "../index.html";
         });
     }
 
