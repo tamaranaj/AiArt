@@ -400,6 +400,7 @@ const popUpImagesService = {
             button.addEventListener("click",  function (event) {
                 event.preventDefault();
                 let item  = button.parentElement.getAttribute('data-item')
+                
                 console.log(item)
                 let imageData = JSON.parse(item)
                 console.log(imageData)
@@ -434,6 +435,7 @@ function showPopup(imageData) {
     const stockStatus = imageData.stock ? ' ✓' : ' ✘';
 
     // Update the popup image
+    imageData.imageUrl.replace("../", "")
     popupImage.src = imageData.imageUrl;
     popupImage.alt = imageData.type;
     // Update the popup content
