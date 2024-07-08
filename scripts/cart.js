@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
   const checkoutBtn = document.getElementById("checkoutBtn");
   let items = JSON.parse(localStorage.getItem("cart-items")) || [];
 
-  
   function isAuthenticated() {
     return localStorage.getItem("user-creds") !== null;
   }

@@ -283,7 +283,22 @@ const createCardsService = {
         let end = start + numOfImagesPerPage
         let pagginatedItems = images.slice(start, end)
         for (let i = 0; i < pagginatedItems.length; i++) {
+            let data = {
 
+                imageUrl: `../${pagginatedItems[i].imageUrl}`,
+                id: pagginatedItems[i].id,
+                type: pagginatedItems[i].photo,
+                description: pagginatedItems[i].description,
+                tags: pagginatedItems[i].tags,
+                category: pagginatedItems[i].category,
+                artist: pagginatedItems[i].artist,
+                price: pagginatedItems[i].price,
+                onDiscount: pagginatedItems[i].onDiscount,
+                discPrice: pagginatedItems[i].discPrice,
+                stock: pagginatedItems[i].stock,
+                
+
+            }
             this.divShowingCards.innerHTML += `
              <article class="card" >
                 <img
@@ -296,7 +311,7 @@ const createCardsService = {
                         <div class="card__content--container | flow">
                             <p class="card__description">${pagginatedItems[i].category}</p>
                             <p class="img-price">${pagginatedItems[i].price}$</p>
-                            <div class="buttonsContainer" id='${pagginatedItems[i].id}' data-item='${JSON.stringify(pagginatedItems[i])}'>
+                            <div class="buttonsContainer" id='${pagginatedItems[i].id}' data-item='${JSON.stringify(data)}'>
                                 <p class="details__button"><img src='icons/icons8-info-64.png' alt='info icon' width ='38'/></p>
                             </div>
                         </div>
